@@ -35,7 +35,7 @@ $(document).ready(function() {
        });
     } else if (e.key === "h") {
        $('#saffi').animate({
-         left: '250px'
+         left: '+=25px'
        });
      }
  });
